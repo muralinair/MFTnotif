@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block body %}
+<h3>Registration form</h3>
+<form method="POST">
+    {% csrf_token %}
+    {{ form.as_ul }}
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+{%endblock%}

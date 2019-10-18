@@ -1,0 +1,8 @@
+{
+    "HOST":"localhost",
+    "USERNAME":"root",
+    "PASSWORD":"",
+    "DBNAME":"mfnotif",
+    "DESTINATIONTABLE":"userpage_statuschangetemptable",
+    "SOURCETABLE":"userpage_orderstable"
+}

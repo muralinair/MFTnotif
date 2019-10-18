@@ -1,0 +1,9 @@
+{
+    "email":{
+        "SMTP":"smtp.gmail.com",
+        "PORT":465,
+        "USERNAME":"emailbot.notification@gmail.com",
+        "PASSWORD":"Testing@123",
+        "FROM":"emailbot.notification@gmail.com"
+    }
+}
